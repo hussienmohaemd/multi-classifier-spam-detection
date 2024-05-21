@@ -43,8 +43,7 @@ The included Colab notebooks offer an in-depth exploration of each model. Run th
 - Replace the placeholders for accuracy with the actual results obtained from running the Colab notebooks.
 - Consider creating separate Colab notebooks for each model for better organization, especially if they become more complex. ️
 
----
 
-Feel free to contribute, open issues, and submit pull requests to improve this project!
+
 
 **License**: [MIT](LICENSE)
